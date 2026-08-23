@@ -1,6 +1,6 @@
 {
-  "name": "동반영업 일정 관리",
-  "short_name": "동반영업",
+  "name": "onday by SBSC",
+  "short_name": "Onday",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f8fafc",
